@@ -1,5 +1,12 @@
 Lord of the Inu is a Gamified NFT project launching on Binance Smart Chain.  It will combine the memes and lore of the cryptoverse as well as the Lord of the Rings universe
 
+CA on  BSC: 0xc1123F438392D3018aD40FD271aCadeC583ad7d6
+
+Website: www.lordoftheinu.com
+Telegram: https://t.me/lordoftheinu
+Medium: https://medium.com/@lordoftheinu
+Twitter: https://twitter.com/lordoftheinu
+
 <!--
 **LordoftheInu/LordoftheInu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
